@@ -6681,7 +6681,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 1, y: 1}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: -90, y: -56.005203}
+  m_AnchoredPosition: {x: -90, y: -56.00525}
   m_SizeDelta: {x: 127.1636, y: 78.0104}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &503611211
@@ -8452,7 +8452,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 0, y: 1}
-  m_AnchoredPosition: {x: 110, y: -39.070007}
+  m_AnchoredPosition: {x: 110, y: -39.069946}
   m_SizeDelta: {x: 44.134003, y: 44.13379}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1315097459
@@ -8753,7 +8753,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 0, y: 1}
-  m_AnchoredPosition: {x: 164, y: -39.070007}
+  m_AnchoredPosition: {x: 164, y: -39.069946}
   m_SizeDelta: {x: 44.134003, y: 44.13379}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1560959043
@@ -8894,7 +8894,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   followObject: {fileID: 931315629}
   minCamPos: {x: 0, y: 0}
-  maxCamPos: {x: 25.17, y: 0}
+  maxCamPos: {x: 35.2, y: 0}
   smoothTime: 0.3
 --- !u!114 &1563399777
 MonoBehaviour:
@@ -9437,7 +9437,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 0, y: 1}
-  m_AnchoredPosition: {x: 56, y: -39.070007}
+  m_AnchoredPosition: {x: 56, y: -39.069946}
   m_SizeDelta: {x: 44.134003, y: 44.13379}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1812755740
